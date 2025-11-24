@@ -2,7 +2,7 @@ Project title: Student Money Manager
 
 Overview of the project:
 
-Student Money Manager is a Java Console Project that is designed for students to make money management easy and efficient. Modern students finds it difficult to manage finances, track expense , manage budget etc that often leads to overspending of finances. This project focuses on finance management for students by providing a safe, user friendly platform through which they can add transaction, select respective categories where they have spent thier money and get insights. This helps students to save money and use it where it is extremely required and neccesary.
+Student Money Manager is a Java Console Project that is designed for students to make money management easy and efficient. Modern students finds it difficult to manage finances, track expense , manage budget etc, that often leads to overspending of finances. This project focuses on finance management for students by providing a safe, user friendly platform through which they can add transaction, select respective categories where they have spent thier money and get insights. This helps students to save money and use it where it is extremely required and neccesary.
 As a student, I know how tough it becomes to manage our expenses and use it in the right way. Therefore , this project acts as your financial compannion or you can call it your college buddy because it helps you track your each rupee, understand your spending patterns, and build healthy financial habits like your true friend. 
 
 Features:
@@ -38,23 +38,23 @@ Windows Setup:
 
 Intellij Setup Steps:
 
-1.Download Intellij IDEA
+1.Download Intellij IDEA.
 
 2.Run the installer and follow the on-screen prompts.
 
-3.From welcome screen, choose new Project > add name > location >Press Enter
+3.From welcome screen, choose new Project > add name > location >Press Enter.
 
 4.Add packages and classes in the project menu.
 
 5.Create a main class in the src section directly.
 
-6.Run the main class
+6.Run the main class.
 
 Instructions for testing:
 
-1.Register a test user by providing a username, email and password,if you get "Registration Successful then the user is registered successfully in your application.
+1.Register a test user by providing a username, email and password,if you get "Registration Successful then, the user is registered successfully in your application.
 
-2.Login with the user added earlier, if you get "Login successful" message and main menu then you have logged in successfully.
+2.Login with the user added earlier, if you get "Login successful" message and main menu then, you have logged in successfully.
 
 3.Add a transaction and if the message stating "Transaction added successfully" appears then your code is absolutely correct and the code passes the test.
 
